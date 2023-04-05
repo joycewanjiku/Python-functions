@@ -20,7 +20,15 @@ def multiply(k,n):
 def modulus(l,p):
     answer=l%p
     return answer
-
+    
+# Control flow
+# if..test condation
+score=int(input("Enter your score"))
+if score >=50:
+    print("you have passed exams")
+    print("congratulations")
+    
+    
 
     
 
